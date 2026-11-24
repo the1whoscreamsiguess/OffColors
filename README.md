@@ -1,4 +1,4 @@
-Rain World mod that gives all vanilla and modded lizards a chance of having oddly colored scales. Some variations are more extravagant than others. Frequency and intensity of color variations can be adjusted in the Remix settings.
+Rain World mod that gives most vanilla and modded lizards a chance of having oddly colored scales. Some variations are more extravagant than others. Frequency and intensity of color variations can be adjusted in the Remix settings.
 
 [Steam link](https://steamcommunity.com/sharedfiles/filedetails/?id=3845459979)
 
